@@ -7,4 +7,4 @@ If the movie contains guessed letter, it will show up on the screen and other le
 
 Try predicting the movie name in 2.5 minutes
 
-Meldic music has also been added in the background.
+Melodic music has also been added in the background.
