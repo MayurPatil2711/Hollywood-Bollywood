@@ -1,5 +1,4 @@
-# Hollywood-Bollywood
-This was game we used to play when we were in school. 
+# Hollywood-Bollywood 
 
 The code randomly picks any name of the movie from the fixed list, and your task will be to predict the name of movie by guessing any letter.
 
